@@ -1,0 +1,19 @@
+openai
+opencv-python
+edge_tts
+matplotlib
+scikit-image
+omegaconf
+pytorch_lightning
+pandas
+kornia
+qrcode
+imageio
+imageio-ffmpeg
+tensorflow==2.12.0  -i https://pypi.tuna.tsinghua.edu.cn/simple
+yacs
+pydub
+filterpy
+facexlib
+librosa
+face_alignment
